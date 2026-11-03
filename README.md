@@ -2,7 +2,7 @@
 A C++ project that prints out a specified binary file in Hexadecimal.
 
 ## Usage
-./hexview <filename>
+`./hexview <filename>`
 
 ## Compilation
-clang++ -std=c++11 main.cpp -o hexview
+`clang++ -std=c++11 main.cpp -o hexview`
